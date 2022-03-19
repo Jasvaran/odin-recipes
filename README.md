@@ -1,2 +1,2 @@
 # odin-recipes
-A recipe for my favorite dish
+This is going to contain a recipe for my favorite dish
